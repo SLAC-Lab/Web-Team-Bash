@@ -131,11 +131,6 @@ if [[ "$OSTYPE" == "darwin"* ]]; then
     alias man="pman"
 fi
 
-alias flora='ssh youruser@flora.slac.stanford.edu'
-alias aegir='ssh youruser@drupal-admin01.slac.stanford.edu'
-alias dev='ssh youruser@drupal-dev01.slac.stanford.edu'
-
-
 
 ######Git Aliases########
 alias gage="git stage -A"
